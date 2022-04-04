@@ -18,5 +18,5 @@ Students who pass this course should be able to:
 
 - [Assignment 1 : Project Proposal](Project/Part_1_Description.md)
 - [Assignment 2 : Initial Design](Project/Part_2_Description.md)
-- [Team Assignment 1 : Combining Designs](Project/Part_2_Description.md)
-- [Team Assignment 2 : Usability Test](Project/Part_2_Description.md)
+- [Team Assignment 1 : Combining Designs](Project/Part_3_Description.md)
+- [Team Assignment 2 : Usability Test](Project/Part_4_Description.md)
